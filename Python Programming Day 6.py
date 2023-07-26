@@ -1,7 +1,6 @@
 import random
-# Hangman
+word_list = ["OWL","SQUIRELL","EAGLE"]
 
-word_list = ["advark","baboon","camel"]
 
 computer_choice = random.choice(word_list)
 # print(computer_choice)
