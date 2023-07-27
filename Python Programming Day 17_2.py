@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 from Python Programming Day 17 import Question
+=======
+from Day17 import Question
+>>>>>>> f72f87dfff416513df1e7f77f73d4936e8d96d82
 from Data import question_data
 from Quiz_brain import QuizBrain
 
